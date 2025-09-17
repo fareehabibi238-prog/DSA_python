@@ -54,10 +54,10 @@
 
 
 # 7 Sort ascending
-def sorting(lst):
-    return sorted(lst)
+#def sorting(lst):
+ #   return sorted(lst)
 
-print(sorting([5,2,8,1]))  
+#print(sorting([5,2,8,1]))  
 
 
 
